@@ -31,6 +31,8 @@ Apart from coding, I also maintain a blog [kipalog](https://kipalog.com/users/ha
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=buiduchanh&repo=TF_yolov3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
