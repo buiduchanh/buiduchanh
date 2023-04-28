@@ -1,10 +1,5 @@
 <h2 align="center">Telegram <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Group -  <a href="https://t.me/tommy3322">t.me/tommy3322</a></h2>
 
-
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src=https://lanyard.cnrad.dev/api/840541540203626516/>
-</p>
-
 ```python
 class Attributes(Tekky):
 	@staticmethod
