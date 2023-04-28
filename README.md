@@ -4,17 +4,16 @@
 class Attributes(Tekky):
 	@staticmethod
 	def contact() -> tuple:
-	    discord  = "tekky#1810"
 	    telegram = "t.me/xtekky"
-	    proton   = "xtekky@protonmail.com"
+	    gmail   = "buiduchanh312@gmail.com"
 	    
-	    return discord, telegram, proton
+	    return telegram, gmail
 	
 	@staticmethod
 	def life() -> tuple:
-		langs         = ['French', 'German', 'Spanish', 'English']
-		nationalities = self.langs.remove('French', 'English').append('Korean')
-		age           = 17
+		langs         = ['English']
+		nationalities = self.langs.append('Vietnamese')
+		age           = 28
 		
 		return langs, nationalities, age
 	
@@ -22,34 +21,22 @@ class Attributes(Tekky):
 	def coding() -> tuple:
 		langs = {
 			'expert':   ['python'],
-			'intermediate': ['go', 'js'],
-			'learning': ['c', 'c++', 'c#', 'asm', 'java']
+			'intermediate': ['c', 'c++', 'JavaScript', 'Solidity'],
 		}
-		specialities  = ['web/app reverse engineering', 'fullstack', 'skidding (joke)']
-		environnement = ['vscode', 'pycharm']
+		specialities  = ['computervision', 'blockchain']
 		
-		return langs, specialities, environnement
-	
-	@staticmethod
-	def projects() -> tuple:
-		discord   = ['HQ Gen', 'Raid Toolkit']
-		tiktok    = ['view bot', 'Algorithms']
-		instagram = ['Gen', 'Botting']
-		twitch    = ['Free Gen', 'Everything u can think of']
-		website   = ['tikstats.io', 'tikbotting.com']
-		
-		return discord, tiktok, instagram, twitch, website
+		return langs, specialities
 
 ```
 <h2 align="center">Skills </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=python,vscode,c,cpp,js,solidity,aws,gcp,azure" />
   </a>
 </p>
 
 <p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=xtekky&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=buiduchanh&theme=tokyonight&show_icons=true">
 </p>
 
