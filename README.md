@@ -6,7 +6,7 @@
 class Attributes(Kaiden):
 	@staticmethod
 	def contact() -> tuple:
-	    telegram = "t.me/xtekky"
+	    telegram = "t.me/tommy3322"
 	    gmail   = "buiduchanh312@gmail.com"
 	    
 	    return telegram, gmail
