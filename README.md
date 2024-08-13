@@ -1,4 +1,4 @@
-<h2 align="center">Telegram <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"> Group -  <a href="https://t.me/tommy3322">t.me/tommy3322</a></h2>
+<h2 align="center">Telegram <img src="https://s8.gifyu.com/images/979447220829032478.gif" height="25px"><a href="https://t.me/tommy3322">t.me/tommy3322</a></h2>
 
 
 
